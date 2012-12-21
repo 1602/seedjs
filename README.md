@@ -1,0 +1,3 @@
+## SeedJS
+
+Seeds for JugglingDB

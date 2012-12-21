@@ -1,7 +1,8 @@
-exports.init = function initSeed() {
+exports.init = function initSeed(compound) {
 
-    // add railwayjs entry point
-    if (global.railway) require('./lib/railway-tools');
+    if (compound) {
+        require('./lib/railway-tools')(compound);
+    }
 
     return false;
 };
