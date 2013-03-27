@@ -26,6 +26,10 @@ Seeds for JugglingDB
     # create seeds using data stored in database
     $ compound seed harvest
 
+### Use from compound:
+
+Call compound.seed(callback) method to populated database.
+
 ## MIT License
 
 ```
