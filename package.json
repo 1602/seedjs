@@ -2,7 +2,7 @@
   "author": "Anatoliy Chakkaev <rpm1602@gmail.com>",
   "name": "seedjs",
   "description": "Database seed lib for nodejs",
-  "version": "0.0.4-6",
+  "version": "0.0.4-7",
   "repository": {
     "type": "git",
     "url": "https://github.com/1602/seedjs"
